@@ -28,4 +28,4 @@ By adding a **Reranking stage** (Cross-Encoder), the system performs a deeper se
    pip install -r requirements.txt
 3. Run the demo:
    ```bash
-  python main.py
+   python main.py
